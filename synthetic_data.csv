@@ -1,0 +1,51 @@
+,Date,Category,Region,Product,Quantity,Price,Sales,Employee,MessyNotes,Rating
+0,2021-01-01,Category_C,South,Gadget,11.0,38.87,427.57,Charlie,  Hello!  ,3
+1,2021-01-02,Category_A,North,Widget,,26.79,0.0,Charlie,Need cleaning!!!,2
+2,2021-01-03,Category_C,South,Doodad,1.0,13.67,13.67,Bob,  Trim me ,1
+3,2021-01-04,Category_C,North,Gadget,1.0,63.18,63.18,Charlie,NoChangeRequired ,2
+4,2021-01-05,Category_A,South,Widget,13.0,70.98,922.74,Charlie,  Another   One,2
+5,2021-01-06,Category_A,West,Gadget,9.0,11.49,103.41,Alice,  Hello!  ,3
+6,2021-01-07,Category_C,West,Gadget,3.0,56.09,168.27,Charlie,Need cleaning!!!,2
+7,2021-01-08,Category_B,East,Gadget,7.0,30.38,212.66,Charlie,  Trim me ,2
+8,2021-01-09,Category_C,West,Gadget,6.0,68.07,408.41999999999996,Bob,NoChangeRequired ,3
+9,2021-01-10,Category_C,East,Doodad,,25.69,0.0,Bob,  Another   One,2
+10,2021-01-11,Category_C,West,Gadget,9.0,72.18,649.6200000000001,Diana,  Hello!  ,2
+11,2021-01-12,Category_C,North,Gadget,5.0,44.81,224.05,Alice,Need cleaning!!!,2
+12,2021-01-13,Category_A,West,Gadget,,94.31,0.0,Charlie,  Trim me ,1
+13,2021-01-14,Category_C,East,Doodad,19.0,22.38,425.21999999999997,Charlie,NoChangeRequired ,1
+14,2021-01-15,Category_B,East,Gadget,10.0,40.7,407.0,Diana,  Another   One,1
+15,2021-01-16,Category_A,South,Gadget,12.0,20.21,242.52,Charlie,  Hello!  ,3
+16,2021-01-17,Category_B,North,Doodad,15.0,93.22,1398.3,Alice,Need cleaning!!!,5
+17,2021-01-18,Category_B,West,Doodad,,88.96,0.0,Diana,  Trim me ,2
+18,2021-01-19,Category_B,South,Doodad,17.0,33.21,564.57,Alice,NoChangeRequired ,2
+19,2021-01-20,Category_B,West,Gadget,17.0,69.4,1179.8000000000002,Diana,  Another   One,3
+20,2021-01-21,Category_A,West,Doodad,12.0,83.55,1002.5999999999999,Diana,  Hello!  ,2
+21,2021-01-22,Category_A,South,Doodad,7.0,59.97,419.78999999999996,Bob,Need cleaning!!!,1
+22,2021-01-23,Category_B,South,Gadget,2.0,57.67,115.34,Alice,  Trim me ,5
+23,2021-01-24,Category_B,South,Doodad,3.0,31.77,95.31,Charlie,NoChangeRequired ,4
+24,2021-01-25,Category_A,South,Gadget,17.0,18.38,312.46,Charlie,  Another   One,2
+25,2021-01-26,Category_A,South,Widget,5.0,90.75,453.75,Alice,  Hello!  ,1
+26,2021-01-27,Category_A,West,Doodad,17.0,91.04,1547.68,Charlie,Need cleaning!!!,4
+27,2021-01-28,Category_C,South,Widget,17.0,66.98,1138.66,Charlie,  Trim me ,5
+28,2021-01-29,Category_C,North,Gadget,,40.51,0.0,Alice,NoChangeRequired ,4
+29,2021-01-30,Category_C,East,Doodad,2.0,41.43,82.86,Diana,  Another   One,1
+30,2021-01-31,Category_B,South,Gadget,2.0,75.34,150.68,Alice,  Hello!  ,4
+31,2021-02-01,Category_C,South,Widget,5.0,90.74,453.7,Diana,Need cleaning!!!,3
+32,2021-02-02,Category_B,West,Gadget,1.0,89.84,89.84,Charlie,  Trim me ,4
+33,2021-02-03,Category_B,South,Doodad,1.0,80.19,80.19,Charlie,NoChangeRequired ,2
+34,2021-02-04,Category_C,South,Doodad,19.0,67.78,1287.82,Charlie,  Another   One,2
+35,2021-02-05,Category_B,South,Widget,2.0,17.57,35.14,Bob,  Hello!  ,3
+36,2021-02-06,Category_C,West,Gadget,12.0,24.55,294.6,Diana,Need cleaning!!!,1
+37,2021-02-07,Category_C,South,Doodad,6.0,90.87,545.22,Bob,  Trim me ,2
+38,2021-02-08,Category_A,East,Widget,4.0,64.58,258.32,Bob,NoChangeRequired ,5
+39,2021-02-09,Category_C,West,Doodad,11.0,10.83,119.13,Alice,  Another   One,2
+40,2021-02-10,Category_A,East,Doodad,17.0,19.13,325.21,Bob,  Hello!  ,2
+41,2021-02-11,Category_C,West,Gadget,6.0,69.72,418.32,Alice,Need cleaning!!!,1
+42,2021-02-12,Category_C,South,Doodad,5.0,10.46,52.300000000000004,Alice,  Trim me ,4
+43,2021-02-13,Category_A,East,Gadget,2.0,24.47,48.94,Bob,NoChangeRequired ,2
+44,2021-02-14,Category_A,West,Doodad,6.0,59.39,356.34000000000003,Diana,  Another   One,3
+45,2021-02-15,Category_C,North,Widget,11.0,72.27,794.9699999999999,Diana,  Hello!  ,4
+46,2021-02-16,Category_B,South,Doodad,16.0,68.68,1098.88,Diana,Need cleaning!!!,5
+47,2021-02-17,Category_A,West,Gadget,16.0,30.18,482.88,Diana,  Trim me ,1
+48,2021-02-18,Category_B,North,Gadget,1.0,74.1,74.1,Diana,NoChangeRequired ,5
+49,2021-02-19,Category_B,West,Widget,9.0,31.35,282.15000000000003,Bob,  Another   One,4
